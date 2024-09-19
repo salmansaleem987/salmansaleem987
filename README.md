@@ -1,58 +1,112 @@
-<h1 align="center">Hi 👋, I'm Salman Saleem</h1>
-<h3 align="center">Python Developer | Aspiring Machine Learning Engineer | Deep Learning Enthusiast | NLP Practitioner | Hate Speech Detection Expert</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salmansaleem987.salmansaleem987" />
 
-<p align="center">
-  <img src="https://r2.erweima.ai/imgcompressed/compressed_6dc626f5c434538b10ce16aaccb8e9e2.webp" width="300" height="200" alt="Salman Saleem's GitHub Banner"/>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salman+Saleem!;" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmansaleem987&label=Profile%20views&color=0e75b6&style=flat" alt="salmansaleem987" /> </p>
+<h3 align="center">Aspiring Machine Learning Engineer | Deep Learning Enthusiast | NLP Practitioner | Hate Speech Detection Expert </h3>
 
-- 🔭 I’m currently working on **Hate Speech Detection Model: Developing a model to identify hate speech in manga content as part of my final year BSCS project.**
+<br/>
 
-- 🌱 I’m currently learning **Advanced Deep Learning Techniques: Exploring techniques like transformers and attention mechanisms. Natural Language Processing (NLP): Deepening my understanding of NLP concepts and tools.**
+<div align="center">
+ 
+ 🔭 I’m currently working on **Hate Speech Detection Model: Developing a model to identify hate speech in manga content as part of my final year BSCS project.**
+ 
+ 🌱 I’m currently learning **Advanced Deep Learning Techniques: Exploring techniques like transformers and attention mechanisms. Natural Language Processing (NLP): Deepening my understanding of NLP concepts and tools.**
 
-- 💬 Ask me about **Machine Learning Algorithms: I'm comfortable discussing various ML algorithms and their applications. Python Programming: I have experience with Python and its libraries for data analysis and machine learning. Natural Language Processing: Feel free to ask about NLP tasks, techniques, and challenges.**
+💬 Ask me about ** Python, Machine Learning,  Machine Learning, Deep Learning and NLP**
 
-- 📫 How to reach me: **Email:** [salmanbrw82@gmail.com] | **LinkedIn:** [Salman Saleem](https://www.linkedin.com/in/salman-saleem-ai/)
+⚡ Fun fact **I enjoy analyzing and working with large datasets for NLP-related tasks.**
 
-<h3 align="left">Courses & Certifications:</h3>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:salmanbrw82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/salman-saleem-ai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- **Supervised Machine Learning: Regression and Classification** (Coursera)
-- **Machine Learning A-Z: AI, Python** (Udemy)
-- **100 Days of Deep Learning** 
-- **Natural Language Processing (NLP)** 
-- **Python for Data Science** (Coursera)
+<hr/>
 
+<h2 align="center">🎓 Education & Certifications 🎓</h2>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salman-saleem-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman saleem" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <alt="COMSATS University Islamabad" width="200">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-</p>
+<ul>
+  <li>Bachelor's in Computer Science (BSCS), COMSATS University Islamabad, Sahiwal Campus</li>
+  <li>Courses & Certifications
+    <ul>
+      <li>**Machine Learning**
+        <ul>
+          <li> Supervised Machine Learning: Regression and Classification</li>
+          <li> Machine Learning A-Z: AI, Python</li>
+        </ul>
+      </li>
+      <li>**Deep Learning**
+        <ul>
+          <li> 100 Days of Deep Learning</li>
+        </ul>
+      </li>
+      <li>**Natural Language Processing**
+        <ul>
+          <li> Natural Language Processing (NLP)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansaleem987&show_icons=true&locale=en&layout=compact" alt="salmansaleem987" /></p>
+<br/>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansaleem987&show_icons=true&locale=en" alt="salmansaleem987" /></p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,github,tensorflow" /><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+    
+    
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansaleem987&" alt="salmansaleem987" /></p>
+<br/>
+<hr/>
+
+<h2 align="center">📚 Courses & Certifications 📚</h2>
+<ul>
+  <li>Supervised Machine Learning: Regression and Classification (Coursera)</li>
+  <li>Machine Learning with Python </li>
+  <li>Deep Learning Specialization (Coursera)</li>
+  <li>Natural Language Processing with Deep Learning </li>
+</ul>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=salmansaleem987&theme=react&border_radius=10" alt="streak stats" class="readme-stats-image" />
+
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=salmansaleem987&show_icons=true&theme=react&border_radius=10" alt="readme stats" class="readme-stats-image" />
+<br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansaleem987&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
+
+<br/>
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
