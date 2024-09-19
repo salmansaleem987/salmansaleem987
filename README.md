@@ -1,61 +1,58 @@
-# 💻 Salman Saleem | Final Year CS Student at COMSATS University
+<h1 align="center">Hi 👋, I'm Salman Saleem</h1>
+<h3 align="center">Python Developer | Aspiring Machine Learning Engineer | Deep Learning Enthusiast | NLP Practitioner | Hate Speech Detection Expert</h3>
 
 <p align="center">
-  <img src="https://r2.erweima.ai/imgcompressed/compressed_6dc626f5c434538b10ce16aaccb8e9e2.webp" width="400" height="200" alt="Salman Saleem's GitHub Banner"/>
+  <img src="https://r2.erweima.ai/imgcompressed/compressed_6dc626f5c434538b10ce16aaccb8e9e2.webp" width="300" height="200" alt="Salman Saleem's GitHub Banner"/>
 </p>
 
-Hi there! I'm **Salman Saleem**, a final-year **BS Computer Science** student at **COMSATS University Islamabad, Sahiwal Campus**. I'm passionate about **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**, with a strong interest in applying these technologies in real-world applications. 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmansaleem987&label=Profile%20views&color=0e75b6&style=flat" alt="salmansaleem987" /> </p>
 
----
+- 🔭 I’m currently working on **Hate Speech Detection Model: Developing a model to identify hate speech in manga content as part of my final year BSCS project.**
 
-## 🌟 About Me
+- 🌱 I’m currently learning **Advanced Deep Learning Techniques: Exploring techniques like transformers and attention mechanisms. Natural Language Processing (NLP): Deepening my understanding of NLP concepts and tools.**
 
-- 🎓 **Final Year Student** at COMSATS University, Islamabad (Sahiwal Campus)
-- 🎯 **Final Year Project:** Building a Manga website with a **Hate Speech Detection Model** using **BERT** and **BLSTM**
-- 🔍 **Role in FYP:** Data Collection, Preprocessing, Feature Extraction, Model Building using **TensorFlow** and **PyTorch**
-- 🎯 **CGPA:** 3.06/4.00
-- 🌱 **Completed Courses:**
-  - **Machine Learning:**
-    - *Supervised Machine Learning: Regression and Classification*
-    - *Machine Learning A-Z: AI, Python*
-  - **Deep Learning:**
-    - *100 Days of Deep Learning*
-  - **Natural Language Processing (NLP):**
-    - *Natural Language Processing (NLP)*
-- 💬 **Ask me about:** AI, ML, DL, NLP
+- 💬 Ask me about **Machine Learning Algorithms: I'm comfortable discussing various ML algorithms and their applications. Python Programming: I have experience with Python and its libraries for data analysis and machine learning. Natural Language Processing: Feel free to ask about NLP tasks, techniques, and challenges.**
 
----
+- 📫 How to reach me: **Email:** [salmanbrw82@gmail.com] | **LinkedIn:** [Salman Saleem](https://www.linkedin.com/in/salman-saleem-ai/)
 
-## 🛠️ Tech Stack
+<h3 align="left">Courses & Certifications:</h3>
 
-- **Languages:** Python
-- **Libraries & Frameworks:** TensorFlow, PyTorch, BERT, BLSTM
-- **Tools:** Git, GitHub, Kaggle, Jupyter, Visual Studio Code
+- **Supervised Machine Learning: Regression and Classification** (Coursera)
+- **Machine Learning A-Z: AI, Python** (Udemy)
+- **100 Days of Deep Learning** 
+- **Natural Language Processing (NLP)** 
+- **Python for Data Science** (Coursera)
 
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/salman-saleem-ai/) 
-[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:salmanbrw82@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" width="400" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/salman-saleem-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman saleem" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+</p>
 
-## ⚡ Fun Fact
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansaleem987&show_icons=true&locale=en&layout=compact" alt="salmansaleem987" /></p>
 
-I'm always up for a challenge, whether it's solving real-world problems through machine learning or exploring new technologies. 😄
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansaleem987&show_icons=true&locale=en" alt="salmansaleem987" /></p>
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansaleem987&" alt="salmansaleem987" /></p>
