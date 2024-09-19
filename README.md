@@ -39,21 +39,21 @@
 </div>
 
 <ul>
-  <li>Bachelor's in Computer Science (BSCS), COMSATS University Islamabad, Sahiwal Campus</li>
+  <li>Bachelor's in Computer Science (BSCS), COMSATS University Islamabad, Sahiwal Campus</li><br>
   <li>Courses & Certifications
     <ul>
-      <li>**Machine Learning**
+      <li>Machine Learning
         <ul>
           <li> Supervised Machine Learning: Regression and Classification</li>
           <li> Machine Learning A-Z: AI, Python</li>
         </ul>
       </li>
-      <li>**Deep Learning**
+      <li>Deep Learning
         <ul>
           <li> 100 Days of Deep Learning</li>
         </ul>
       </li>
-      <li>**Natural Language Processing**
+      <li>Natural Language Processing
         <ul>
           <li> Natural Language Processing (NLP)</li>
         </ul>
