@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://t4.ftcdn.net/jpg/05/73/43/21/360_F_573432149_j8p8srZwx69C11IXrjBMvMsXjiHVuCAw.webp" alt="MasterHead" width="900" height="700" />
+    <img src="https://t4.ftcdn.net/jpg/05/73/43/21/360_F_573432149_j8p8srZwx69C11IXrjBMvMsXjiHVuCAw.webp" alt="MasterHead" width="800" height="700" />
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salmansaleem987.salmansaleem987" />
