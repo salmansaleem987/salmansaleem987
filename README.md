@@ -39,20 +39,18 @@ I specialize in taking NLP projects from concept to deployment, using tools like
 
 <br/>
 <hr/>
-
-<h2 align="center">🛠️ My Tech Stack 🛠️</h2>
-<br/>
 <div align="center">
-    <h4>Machine Learning & Deep Learning</h4>
-    <p>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,sklearn,pandas,numpy" />
-    </p>
-    <h4>Backend & MLOps</h4>
-    <p>
-        <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,github" />
-    </p>
+  <h2>🛠️ My Tech Stack 🛠️</h2>
+  <br/>
+  <h4>Machine Learning & Deep Learning</h4>
+  <p>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,sklearn,pandas,numpy" />
+  </p>
+  <h4>Backend & MLOps</h4>
+  <p>
+      <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,github" />
+  </p>
 </div>
-
 <br/>
 <hr/>
 
