@@ -1,31 +1,24 @@
-
 <p align="center">
-    <img src="https://t4.ftcdn.net/jpg/05/73/43/21/360_F_573432149_j8p8srZwx69C11IXrjBMvMsXjiHVuCAw.webp" alt="MasterHead" width="800" height="600" />
+    <img src="https://t4.ftcdn.net/jpg/05/73/43/21/360_F_573432149_j8p8srZwx69C11IXrjBMvMsXjiHVuCAw.webp" alt="Header" width="800" />
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salmansaleem987.salmansaleem987" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salman+Saleem!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salman+Saleem!;" />
 </h1>
 
-<h3 align="center">Aspiring Machine Learning Engineer | Deep Learning Enthusiast | NLP Practitioner | Hate Speech Detection Expert </h3>
+<h3 align="center">Machine Learning & NLP Engineer | MLOps Enthusiast</h3>
 
 <br/>
 
 <div align="center">
+I am a Machine Learning Engineer and Research Assistant at the <b>Al-Khawarizmi Institute of Computer Science (KICS)</b>, where I benchmark Transformer models (BERT, RoBERTa) and build data-processing pipelines for complex biomedical datasets.
+<br/><br/>
+I specialize in taking NLP projects from concept to deployment, using tools like <b>FastAPI</b> for API development and <b>Docker</b> for containerization.
+</div>
  
- 🔭 I’m currently working on **Hate Speech Detection Model: Developing a model to identify hate speech in manga content as part of my final year BSCS project.**
- 
- 🌱 I’m currently learning **Advanced Deep Learning Techniques: Exploring techniques like transformers and attention mechanisms. Natural Language Processing (NLP): Deepening my understanding of NLP concepts and tools.**
-
-💬 Ask me about ** Python, Machine Learning,  Machine Learning, Deep Learning and NLP**
-
-⚡ Fun fact **I enjoy analyzing and working with large datasets for NLP-related tasks.**
-
- </div>
- 
-<div align="center"> 
+<div align="center" style="margin-top: 20px;"> 
   <a href="mailto:salmanbrw82@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -36,33 +29,43 @@
 
 <hr/>
 
-<h2 align="center">🎓 Education & Certifications 🎓</h2>
+<h2 align="center">🚀 Featured Projects 🚀</h2>
 <br/>
 
+| Project | Description | Tech Stack | Repository |
+|---|---|---|---|
+| **Language Detection API** | A REST API to detect the language of a text string. The application is containerized with Docker for easy setup and deployment. | `Python`, `FastAPI`, `Docker` | [**GitHub Repo**](https://github.com/salmansaleem987/language-detection) |
+| **Context-Aware Hate Speech Detection** | Final Year Project: A hybrid BERT-LSTM model built in PyTorch to identify nuanced and context-dependent hate speech. | `Python`, `PyTorch`, `BERT`, `LSTM`, `Transformers` | *(Link to your project repo here)* |
+
+<br/>
+<hr/>
+
+<h2 align="center">🛠️ My Tech Stack 🛠️</h2>
+<br/>
 <div align="center">
-  <alt="COMSATS University Islamabad" width="200">
+    <h4>Machine Learning & Deep Learning</h4>
+    <p>
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,sklearn,pandas,numpy" />
+    </p>
+    <h4>Backend & MLOps</h4>
+    <p>
+        <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,github" />
+    </p>
 </div>
 
+<br/>
+<hr/>
+
+<h2 align="center">🎓 Education & Certifications 🎓</h2>
 <ul>
-  <li>Bachelor's in Computer Science (BSCS), COMSATS University Islamabad, Sahiwal Campus</li><br>
-  <li>Courses & Certifications
+  <li><b>Bachelor of Science in Computer Science</b> - COMSATS University Islamabad, Sahiwal Campus</li>
+  <br/>
+  <li><b>Key Certifications & Courses:</b>
     <ul>
-      <li>Machine Learning
-        <ul>
-          <li> Supervised Machine Learning: Regression and Classification</li>
-          <li> Machine Learning A-Z: AI, Python</li>
-        </ul>
-      </li>
-      <li>Deep Learning
-        <ul>
-          <li> 100 Days of Deep Learning</li>
-        </ul>
-      </li>
-      <li>Natural Language Processing
-        <ul>
-          <li> Natural Language Processing (NLP)</li>
-        </ul>
-      </li>
+      <li>Supervised Machine Learning: Regression and Classification (Coursera)</li>
+      <li>Natural Language Processing (Coursera)</li>
+      <li>Introduction to Large Language Models (Coursera)</li>
+      <li>100 Days of Deep Learning (Bootcamp)</li>
     </ul>
   </li>
 </ul>
@@ -70,42 +73,12 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,github,tensorflow" /><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-    
-    
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">📚 Courses & Certifications 📚</h2>
-<ul>
-  <li>Supervised Machine Learning: Regression and Classification (Coursera)</li>
-  <li>Machine Learning with Python </li>
-  <li>Deep Learning Specialization (Coursera)</li>
-  <li>Natural Language Processing with Deep Learning </li>
-</ul>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ My GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=salmansaleem987&theme=react&border_radius=10" alt="streak stats" class="readme-stats-image" />
-
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=salmansaleem987&show_icons=true&theme=react&border_radius=10" alt="readme stats" class="readme-stats-image" />
-<br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansaleem987&layout=compact&theme=react&border_radius=10" alt="top langs" />
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=salmansaleem987&theme=react&border_radius=10" alt="streak stats" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=salmansaleem987&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+    <br/>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansaleem987&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
-
 <br/>
-<hr/>
-
-
