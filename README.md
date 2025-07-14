@@ -39,18 +39,29 @@ I specialize in taking NLP projects from concept to deployment, using tools like
 
 <br/>
 <hr/>
+
 <div align="center">
-  <h2>🛠️ My Tech Stack 🛠️</h2>
+  <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
   <br/>
-  <h4>Machine Learning & Deep Learning</h4>
-  <p>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,sklearn,pandas,numpy" />
+  <h4 align="center">Machine Learning & Deep Learning</h4>
+  <p align="center">
+    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+    <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+    <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+    <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
   </p>
-  <h4>Backend & MLOps</h4>
-  <p>
-      <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,github" />
+  <h4 align="center">Backend & MLOps</h4>
+  <p align="center">
+    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   </p>
 </div>
+
 <br/>
 <hr/>
 
